@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908555924263",
+    "project_id": "digital-sorcery-ac57b",
+    "storage_bucket": "digital-sorcery-ac57b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908555924263:android:113725857951206c282f02",
+        "android_client_info": {
+          "package_name": "com.avanish.digital_sorcery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7fHqSBZW8vETnftiiFMtah6Sbj0vv4io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
